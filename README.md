@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Marcin Ryżewski aka Miesho. Im polish student of electronic.
+- 👋 Hi, I’m Martin Ryżewski aka Miesho. I am a professional software engineer for embedded systems.
 - 👀 I’m interested in computer science, electronics engineer, physics and mathematics. In non-engineering fields, I am inspired by philosophy and history.
 - 🌱 I’m currently learning circuit Theory, signal analysis and I'm still develop myself as a programmer.
 - 📫 How to reach me 
